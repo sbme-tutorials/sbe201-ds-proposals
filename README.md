@@ -13,7 +13,7 @@ Groups that didn't yet decide an idea for their final project are suggested one 
 | Huffman Coding | |
 | Bloxorz Hacking | |
 | Sequence Alignments | |
-
+| Tech Tree | |
 
 ## P1. Patterns Matching in Linear Space and Query Time
 
@@ -89,3 +89,28 @@ What you will learn:
 ### Resources
 
 * [Comparing Genes, Proteins, and Genomes (Bioinformatics III) \| Coursera](https://www.coursera.org/learn/comparing-genomes), week 1 \& week 2.
+
+## P5. A Tech Tree from Wikipedia Technology Pages 
+Have you ever played [Feeding Frenzy](https://en.wikipedia.org/wiki/Feeding_Frenzy_(video_game))? .. If you don't, you, probably, have tried to search for advanced technology in any game you played. 
+Let's give an example for that: 
+The picture below is one of the tech trees designed for a game called [Reus](http://wiki.reusgame.com/index.php?title=Main_Page).
+
+![tech tree](images/424px-OceanAnimal.png)
+
+The tree illustrate animals in the "Ocean Biome". Given some privilages like the circle-shaped cards in the image you can get a level-up.  
+This is similar to what is happening in "Feeding Frenzy"; you advance your, playable, on screen, fish size so you can get feed on larger type of fishes.
+
+That is the just an intro, I am not proposing to make a game! 
+### Here, what you can try for this propsal: 
+* The Idea is how can you take this concept to apply it on wikipedia pages for technology.
+* You scrape wikipedia for technology pages and extract the links between them then try to use these links to work out older technologies find the important ones, prerequisites, etc. 
+
+### What you will learn: 
+* Adversarial Search and Trees
+* Game theory
+
+### Resources
+
+* [Technology tree/ Wikipedia](https://en.wikipedia.org/wiki/Technology_tree)
+* [Reus Tech Trees](http://wiki.reusgame.com/index.php?title=Tech_Trees)
+* [Adversarial Search](https://www.youtube.com/watch?v=uQkEyZlcx08)
