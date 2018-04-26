@@ -9,9 +9,9 @@ Groups that didn't yet decide an idea for their final project are suggested one 
 
 | Project | Group(s) |
 |----------|----------|
-| Pattern Matching | |
-| Huffman Coding | |
-| Bloxorz Hacking | |
+| Pattern Matching | @sbme-tutorials/sbe201-team01  |
+| Huffman Coding | @sbme-tutorials/sbe201-team19 |
+| Bloxorz Hacking | @sbme-tutorials/sbe201-team05 |
 | Sequence Alignments | |
 
 
