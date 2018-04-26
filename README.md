@@ -10,9 +10,9 @@ Groups that didn't yet decide an idea for their final project are suggested one 
 | Project | Group(s) |
 |----------|----------|
 | Pattern Matching | [team01](https://github.com/orgs/sbme-tutorials/teams/sbe201-team01)  |
-| Huffman Coding | [team19](https://github.com/orgs/sbme-tutorials/teams/sbe201-team19) |
+| Huffman Coding | [team19](https://github.com/orgs/sbme-tutorials/teams/sbe201-team19), [team02](https://github.com/orgs/sbme-tutorials/teams/sbe201-team02) |
 | Bloxorz Hacking | [team05](https://github.com/orgs/sbme-tutorials/teams/sbe201-team05) |
-| Sequence Alignments | |
+| Sequence Alignments | [team15](https://github.com/orgs/sbme-tutorials/teams/sbe201-team15-1) |
 
 
 ## P1. Patterns Matching in Linear Space and Query Time
