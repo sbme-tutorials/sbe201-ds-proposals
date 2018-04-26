@@ -7,22 +7,32 @@ Groups that didn't yet decide an idea for their final project are suggested one 
 * Cheating and copying external codes is the easiest way to guarantee zero grade for the project, for the whole team.
 * You are encouraged to use *CMake* script to define your project structure and let it carry out building your programs.
 
-## Substring searching in linear space and query time
+| Project | Group(s) |
+|----------|----------|
+| Pattern Matching | |
+| Huffman Coding | |
+| Bloxorz Hacking | |
+| Sequence Alignments | |
+
+
+## P1. Patterns Matching in Linear Space and Query Time
 
 Make a survey over these algorithms and report their time and space complexity:
 
 * Trie,
 * Suffix Tree,
-* and Suffix Array
+* Suffix Array,
+* and Burrows-Wheeler-Transform (BWT)
 
 Implement the most efficient algorithm in your project.
 
 ### Resources
 
-* [Finding Mutations in DNA and Proteins (Bioinformatics VI) \| Coursera](https://www.coursera.org/learn/dna-mutations)
-* Some related materials are available from with TA.
+* [Finding Mutations in DNA and Proteins (Bioinformatics VI) \| Coursera](https://www.coursera.org/learn/dna-mutations).
+* [Fast String Searching With Suffix Trees](http://marknelson.us/1996/08/01/suffix-trees/)
+* Some related materials are available from with the TA.
 
-## Huffman Compression Algorithm
+## P2. Huffman Compression Algorithm
 
 In this project, you are required to implement a Huffman compression algorithm. You need to compile to programs: one for compressing an input file, and another one to decompress an input compressed file.
 
@@ -42,7 +52,7 @@ What you will learn:
 * [Huffman Algorithm \(2/3\) \[كود مصري\]](https://www.youtube.com/watch?v=LplgowaCY4c)
 * [Huffman Algorithm \(3/3\) \[كود مصري\]](https://www.youtube.com/watch?v=Y5SWDAIZ0sQ)
 
-## Solve Bloxorz Game
+## P3. Solve Bloxorz Game
 
 > This task is inspired by [Scala Specialization \| Coursera](https://www.coursera.org/specializations/scala)
 
@@ -65,7 +75,7 @@ What you will learn:
 * Using queues (ADT) during **breadth-first** search.
 * Using sets (ADT) to avoid visiting the same state.
 
-## DNA Sequence Alignment
+## P4. DNA Sequence Alignment
 
 In this project, you are required to implement an algorithm that finds the optimal alignment between two DNA sequences.
 
@@ -77,3 +87,5 @@ What you will learn:
 * Files Input/Output in C++.
 
 ### Resources
+
+* [Comparing Genes, Proteins, and Genomes (Bioinformatics III) \| Coursera](https://www.coursera.org/learn/comparing-genomes), week 1 \& week 2.
